@@ -1,7 +1,7 @@
 
 # Steel Fatigue Strength Prediction with Jaya Algorithm Tuning
 
-This project aims to predict the fatigue strength of steel alloys based on their physical properties. A **Neural Network** model is trained, and its hyperparameters are optimized using the **Jaya Algorithm**, an optimization algorithm which  does not require any algorithm-specific control parameters.
+This repository focuses on predicting the fatigue strength of steel alloys under rotating bending conditions, based on a variety of chemical composition and heat treatment parameters. Accurate prediction of fatigue strength is crucial in industries where material failure due to cyclic loading can lead to catastrophic consequences, such as in aerospace, automotive, and structural applications.
 
 
 ## Dataset
